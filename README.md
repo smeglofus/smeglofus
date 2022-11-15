@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrik
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, Flask, SQLalchemy,...
+- 🌱 I’m currently learning Python, Flask, SQL,...
 - 💞️ I’m looking to collaborate on project where i can use my skills
 
 <!---
