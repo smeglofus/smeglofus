@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Patrik
-I like to write code and drinking coffee. I am not sure what i do more :)
+👋 Hi, I'm Patrik. I'm all about writing code and savoring coffee. Not sure which I do more of, to be honest! ☕💻
 <!---
 smeglofus/smeglofus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
